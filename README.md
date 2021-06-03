@@ -8,6 +8,11 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 
 
 ### \#ekg
+- [ ] https://www.nature.com/articles/s41591-020-0870-z
+- [ ] https://www.nature.com/articles/s41598-019-57025-2
+- [ ] https://arxiv.org/abs/2003.10580
+- [ ] Cactus
+- [ ] Prototypical networks
 
 ### \#sc2drug
 - [ ] similar idea, [in Nat Mach Int](https://www.nature.com/articles/s42256-020-00285-9)
@@ -15,11 +20,30 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] single-cell + drug discovery, [a review](https://www.sciencedirect.com/science/article/pii/S0165614720302376)
 - [ ] https://www.nature.com/articles/s41467-021-21997-5
 - [ ] https://www.biorxiv.org/content/10.1101/2021.05.25.445658v2
+- [ ] https://www.nature.com/articles/s42256-021-00338-7
+
+### \#unos/imacs/hcci
+- [ ] [Shapley networks](https://arxiv.org/pdf/2104.02297v1.pdf); [code here](https://github.com/inouye-lab/ShapleyExplanationNetworks)
+- [ ] [organ transplant by vdS](https://arxiv.org/abs/2101.11769)
+- [x] TabNet
+- [ ] [VIME](https://papers.nips.cc/paper/2020/file/7d97667a3e056acab9aaf653807b4a03-Paper.pdf)
 
 
 ### \#wearables
 - [ ] [classic paper on lstm v. gru](http://proceedings.mlr.press/v37/jozefowicz15.pdf)
 - [ ] [paper to replicate](https://doi.org/10.1038/s41591-021-01335-4)
+
+### \#dist_encoder
+- [x] MSR for [data set similarity](https://www.microsoft.com/en-us/research/blog/measuring-dataset-similarity-using-optimal-transport/)
+- [x] DeepSets
+- [ ] [set functions for time-series](https://arxiv.org/abs/1909.12064)
+- [ ] applications of data set similarity for bio, [here](https://doi.org/10.1038/s41592-019-0689-z)
+
+## shared_w/me
+
+## fields
+
+### ML4healthcare
 
 ## contemporary
 
