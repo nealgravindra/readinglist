@@ -1,5 +1,5 @@
 # reading list
-need to read more papers ahhh *for research ONLY*: read more books for life, yikes
+need to read more papers ahhh *for research ONLY*; read more books for life, yikes
 
 ## projects
 
