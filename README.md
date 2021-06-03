@@ -5,7 +5,16 @@ need to read more papers gahhh
 
 ### \#scgat
 - [ ] [scGNN](https://www.nature.com/articles/s41467-021-22197-x)
-- [ ] 
+
+
+### \#ekg
+
+### \#sc2drug
+- [ ] similar idea, [in Nat Mach Int](https://www.nature.com/articles/s42256-020-00285-9)
+- [ ] [IGMC](https://github.com/muhanzhang/IGMC)
+- [ ] single-cell + drug discovery, [a review](https://www.sciencedirect.com/science/article/pii/S0165614720302376)
+- [ ] https://www.nature.com/articles/s41467-021-21997-5
+- [ ] https://www.biorxiv.org/content/10.1101/2021.05.25.445658v2
 
 
 ### \#wearables
