@@ -44,6 +44,9 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 
 ## fields
 
+### SSL
+- [x] [CSI](https://arxiv.org/abs/2007.08176)
+
 ### ML4healthcare
 
 ## architectures
