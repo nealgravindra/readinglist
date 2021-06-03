@@ -32,6 +32,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 ### \#wearables
 - [ ] [classic paper on lstm v. gru](http://proceedings.mlr.press/v37/jozefowicz15.pdf)
 - [ ] [paper to replicate](https://doi.org/10.1038/s41591-021-01335-4)
+- [x] [time2vec](https://arxiv.org/abs/1907.05321)
 
 ### \#dist_encoder
 - [x] MSR for [data set similarity](https://www.microsoft.com/en-us/research/blog/measuring-dataset-similarity-using-optimal-transport/)
