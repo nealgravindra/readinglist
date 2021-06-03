@@ -46,6 +46,11 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 
 ### ML4healthcare
 
+## architectures
+
+### transformers
+- [ ] On Position Embeddings in BERT, see [here](https://openreview.net/forum?id=onxoVA9FxMw)
+
 ## contemporary
 
 ### compsci
