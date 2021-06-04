@@ -17,6 +17,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] Prototypical networks
 
 ### \#sc2drug
+- [ ] [WGAN](https://www.depthfirstlearning.com/2019/WassersteinGAN) review 
 - [ ] similar idea, [in Nat Mach Int](https://www.nature.com/articles/s42256-020-00285-9)
 - [ ] [IGMC](https://github.com/muhanzhang/IGMC)
 - [ ] single-cell + drug discovery, [a review](https://www.sciencedirect.com/science/article/pii/S0165614720302376)
@@ -43,6 +44,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] applications of data set similarity for bio, [here](https://doi.org/10.1038/s41592-019-0689-z)
 
 ## shared_w/me
+- [ ] another max welling article on [norm flows](https://arxiv.org/abs/2102.05379)
 
 ## fields
 
