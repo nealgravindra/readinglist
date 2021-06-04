@@ -7,6 +7,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] [scGNN](https://www.nature.com/articles/s41467-021-22197-x)
 - [ ] [Random labels](https://arxiv.org/abs/2006.10455)
 - [ ] feature interactions in NNs, [here](https://arxiv.org/abs/1705.04977)
+- [x] fuzzy jaccard index, [FUJI](https://arxiv.org/abs/2008.02216) score
 
 
 ### \#ekg
