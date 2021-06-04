@@ -5,6 +5,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 
 ### \#scgat
 - [ ] [scGNN](https://www.nature.com/articles/s41467-021-22197-x)
+- [ ] [Random labels](https://arxiv.org/abs/2006.10455)
 
 
 ### \#ekg
