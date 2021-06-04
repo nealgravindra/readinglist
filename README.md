@@ -48,6 +48,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 
 ### SSL
 - [x] [CSI](https://arxiv.org/abs/2007.08176)
+- [ ] [DINO](https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training/) blog post
 
 ### ML4healthcare
 
