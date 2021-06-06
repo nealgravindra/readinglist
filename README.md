@@ -29,9 +29,6 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 ### \#unos/imacs/hcci
 - [ ] [Shapley networks](https://arxiv.org/pdf/2104.02297v1.pdf); [code here](https://github.com/inouye-lab/ShapleyExplanationNetworks)
 - [ ] [organ transplant by vdS](https://arxiv.org/abs/2101.11769)
-- [x] TabNet
-- [ ] [VIME](https://papers.nips.cc/paper/2020/file/7d97667a3e056acab9aaf653807b4a03-Paper.pdf)
-
 
 ### \#wearables
 - [ ] [classic paper on lstm v. gru](http://proceedings.mlr.press/v37/jozefowicz15.pdf)
@@ -52,6 +49,11 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 ### SSL
 - [x] [CSI](https://arxiv.org/abs/2007.08176)
 - [ ] [DINO](https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training/) blog post
+
+### tabular_data
+- [ ] [VIME](https://papers.nips.cc/paper/2020/file/7d97667a3e056acab9aaf653807b4a03-Paper.pdf)
+- [x] TabNet
+- [ ] [SAINT]()
 
 ### ML4healthcare
 
