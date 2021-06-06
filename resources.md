@@ -6,10 +6,10 @@
 # textbooks
 
 1. Dive into DL https://d2l.ai/index.html
-2. Deep learning. Goodfellow ET Al 2016
-3. Statistical learning. Tibshirani et Al. 2014
-4. Pytorch deep learning book
-5. Introduction to Algorithms, MIT Press, by 
+2. Deep learning. Goodfellow et al. 2016
+3. Statistical learning. Tibshirani et al. 2014
+4. Deep learning with PyTorch, [pdf here](https://pytorch.org/assets/deep-learning/Deep-Learning-with-PyTorch.pdf)
+5. Introduction to Algorithms, MIT Press
 6. concepts in software engineering: Design patterns : elements of reusable object-oriented software and Code Complete (Developer Best Practices) and Docker for Data Scientists
 7. Cracking the coding interview by Gayle Laakmann, https://github.com/ml874/Cracking-the-Data-Science-Interview
 8. Mathematics of deep learning, https://github.com/mml-book/mml-book.github.io
