@@ -43,6 +43,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 
 ## shared_w/me
 - [ ] another max welling article on [norm flows](https://arxiv.org/abs/2102.05379)
+- [ ] https://arxiv.org/abs/2106.01345
 
 ## fields
 
