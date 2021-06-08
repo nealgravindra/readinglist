@@ -8,7 +8,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] [Random labels](https://arxiv.org/abs/2006.10455)
 - [ ] feature interactions in NNs, [here](https://arxiv.org/abs/1705.04977)
 - [x] fuzzy jaccard index, [FUJI](https://arxiv.org/abs/2008.02216) score
-- [ ] GAT by Velickovic, [here](https://arxiv.org/abs/1710.10903)
+- [x] GAT by Velickovic, [here](https://arxiv.org/abs/1710.10903)
 
 
 ### \#ekg
