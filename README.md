@@ -56,6 +56,9 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [x] TabNet
 - [ ] [SAINT]()
 
+### multi-modal_reps
+- [ ] https://arxiv.org/pdf/2104.11178.pdf
+
 ### ML4healthcare
 
 ## architectures
