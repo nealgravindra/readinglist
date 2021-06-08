@@ -25,6 +25,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] https://www.nature.com/articles/s41467-021-21997-5
 - [ ] https://www.biorxiv.org/content/10.1101/2021.05.25.445658v2
 - [ ] https://www.nature.com/articles/s42256-021-00338-7
+- [ ] https://arxiv.org/abs/2106.02246
 
 ### \#unos/imacs/hcci
 - [ ] [Shapley networks](https://arxiv.org/pdf/2104.02297v1.pdf); [code here](https://github.com/inouye-lab/ShapleyExplanationNetworks)
