@@ -63,6 +63,8 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 
 ### ML4healthcare
 
+- [ ] another vdS, on a tool, https://arxiv.org/abs/2106.04240
+
 ## architectures
 
 ### transformers
