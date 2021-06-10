@@ -23,4 +23,4 @@
 16. Cormen et al. Introduction to Algorithms, MIT Press, 2009
 17. for time series basics: "Forecasting: Principles and Practice", https://otexts.com/fpp3/
 18. Natural Language Processing w/Python: http://www.nltk.org/book_1ed/
-19. Practical Time Series Analysis [yale library link](https://learning.oreilly.com/library/view/practical-time-series/9781492041641/?sso_link=yes&sso_link_from=yale-university)
+19. Practical Time Series Analysis by Aileen Nielsen [yale library link](https://learning.oreilly.com/library/view/practical-time-series/9781492041641/?sso_link=yes&sso_link_from=yale-university)
