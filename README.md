@@ -47,12 +47,13 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] another max welling article on [norm flows](https://arxiv.org/abs/2102.05379)
 - [ ] https://arxiv.org/abs/2106.01345
 - [ ] relevant for DINO, https://arxiv.org/abs/2106.05237
+- [ ] feature selection, high-dim bio data, https://arxiv.org/abs/2001.08322
 
 ## fields
 
 ### SSL
 - [x] [CSI](https://arxiv.org/abs/2007.08176)
-- [ ] [DINO](https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training/) blog post
+- [x] [DINO](https://ai.facebook.com/blog/dino-paws-computer-vision-with-self-supervised-transformers-and-10x-more-efficient-training/) blog post
 
 ### tabular_data
 - [ ] [VIME](https://papers.nips.cc/paper/2020/file/7d97667a3e056acab9aaf653807b4a03-Paper.pdf)
