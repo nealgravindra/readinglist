@@ -49,6 +49,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] relevant for DINO, https://arxiv.org/abs/2106.05237
 - [ ] feature selection, high-dim bio data, https://arxiv.org/abs/2001.08322
 
+
 ## fields
 
 ### SSL
@@ -66,6 +67,9 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 ### ML4healthcare
 - [ ] another vdS, on a tool, https://arxiv.org/abs/2106.04240
 - [ ] explaining time series, another vdS, https://arxiv.org/abs/2106.05303
+
+### timeseries
+- [x] inception for time-series, https://arxiv.org/pdf/1909.04939.pdf
 
 ## architectures
 
