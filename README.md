@@ -71,6 +71,10 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 ### timeseries
 - [x] inception for time-series, https://arxiv.org/pdf/1909.04939.pdf
 
+### computer_vision
+- [ ] neural tangent kernel, https://arxiv.org/abs/1806.07572
+- [ ] random fourier features, https://people.eecs.berkeley.edu/~brecht/papers/07.rah.rec.nips.pdf
+
 ## architectures
 
 ### transformers
