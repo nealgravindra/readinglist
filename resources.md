@@ -24,3 +24,8 @@
 17. for time series basics: "Forecasting: Principles and Practice", https://otexts.com/fpp3/
 18. Natural Language Processing w/Python: http://www.nltk.org/book_1ed/
 19. Practical Time Series Analysis by Aileen Nielsen [yale library link](https://learning.oreilly.com/library/view/practical-time-series/9781492041641/?sso_link=yes&sso_link_from=yale-university); [stanford lib link](https://searchworks.stanford.edu/view/12744528)
+
+# data
+
+## bio
+1. see Table 2 for single-cell data that can be used for drug discovery and "perturbation modeling", https://doi.org/10.1016/j.cels.2021.05.016
