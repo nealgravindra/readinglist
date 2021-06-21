@@ -24,6 +24,7 @@
 17. for time series basics: "Forecasting: Principles and Practice", https://otexts.com/fpp3/
 18. Natural Language Processing w/Python: http://www.nltk.org/book_1ed/
 19. Practical Time Series Analysis by Aileen Nielsen [yale library link](https://learning.oreilly.com/library/view/practical-time-series/9781492041641/?sso_link=yes&sso_link_from=yale-university); [stanford lib link](https://searchworks.stanford.edu/view/12744528)
+20. Geometric Deep Learning book by Bronstein, Taco Cohen, and Petar: https://arxiv.org/abs/2104.13478
 
 # data
 
