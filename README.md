@@ -68,6 +68,11 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] another vdS, on a tool, https://arxiv.org/abs/2106.04240
 - [ ] explaining time series, another vdS, https://arxiv.org/abs/2106.05303
 
+### ML4biology (includes drug discovery/repurposing, etc.?)
+*desirable $1$: a simpler classification of fields...*
+- [x] transcriptome --> small molecule, https://www.nature.com/articles/s41467-019-13807-w
+- [ ] 
+
 ### timeseries
 - [x] inception for time-series, https://arxiv.org/pdf/1909.04939.pdf
 
