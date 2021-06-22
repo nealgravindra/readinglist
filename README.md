@@ -81,6 +81,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] neural tangent kernel, https://arxiv.org/abs/1806.07572
 - [ ] random fourier features, https://people.eecs.berkeley.edu/~brecht/papers/07.rah.rec.nips.pdf
 - [x] SimSiam, Chen \& He, CVPR 2021 ([here](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.html)) 
+- [x] metadata normalization to remove confounders in metadata (e.g., diff sites), within the network, https://openaccess.thecvf.com/content/CVPR2021/html/Lu_Metadata_Normalization_CVPR_2021_paper.html
 
 ## architectures
 
