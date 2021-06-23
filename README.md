@@ -76,6 +76,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 
 ### timeseries
 - [x] inception for time-series, https://arxiv.org/pdf/1909.04939.pdf
+- [x] sktime, the equivalent of sklearn for time-series, http://learningsys.org/neurips19/assets/papers/sktime_ml_systems_neurips2019.pdf
 
 ### computer_vision
 - [ ] neural tangent kernel, https://arxiv.org/abs/1806.07572
