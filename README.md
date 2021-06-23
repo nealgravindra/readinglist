@@ -83,6 +83,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [x] SimSiam, Chen \& He, CVPR 2021 ([here](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.html)) 
 - [x] metadata normalization to remove confounders in metadata (e.g., diff sites), within the network, https://openaccess.thecvf.com/content/CVPR2021/html/Lu_Metadata_Normalization_CVPR_2021_paper.html
 - [ ] on all the contrastive learning stuff by FAIR: https://openaccess.thecvf.com/content/CVPR2021/html/Feichtenhofer_A_Large-Scale_Study_on_Unsupervised_Spatiotemporal_Representation_Learning_CVPR_2021_paper.html
+- [ ] SOTA for tumor and organ segmentation as of CVPR 2021, https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_DoDNet_Learning_To_Segment_Multi-Organ_and_Tumors_From_Multiple_Partially_CVPR_2021_paper.html
 
 ## architectures
 
