@@ -80,6 +80,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [x] sktime, the equivalent of sklearn for time-series, http://learningsys.org/neurips19/assets/papers/sktime_ml_systems_neurips2019.pdf
 
 ### computer_vision
+- [ ] great lillian blog post on attention, https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
 - [ ] neural tangent kernel, https://arxiv.org/abs/1806.07572
 - [ ] random fourier features, https://people.eecs.berkeley.edu/~brecht/papers/07.rah.rec.nips.pdf
 - [x] SimSiam, Chen \& He, CVPR 2021 ([here](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_Exploring_Simple_Siamese_Representation_Learning_CVPR_2021_paper.html)) 
