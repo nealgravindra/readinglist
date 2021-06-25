@@ -1,6 +1,8 @@
 # reading list
 need to read more papers ahhh... *for research*... read more books for life, yikes
 
+(*NOTE*: "(+)" indicates a would recommend review, since the paper might be useful to others)
+
 ## projects
 
 ### \#scgat
