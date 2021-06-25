@@ -76,6 +76,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 *desirable $1$: a simpler classification of fields...*
 - [x] transcriptome --> small molecule, https://www.nature.com/articles/s41467-019-13807-w
 - [x] perturbation modeling, in part with single-cell data: https://doi.org/10.1016/j.cels.2021.05.016
+- [ ] from Google Accelerated Science team, https://ai.googleblog.com/2020/04/applying-machine-learning-toyeast.html
 
 ### timeseries
 - [x] inception for time-series, https://arxiv.org/pdf/1909.04939.pdf
