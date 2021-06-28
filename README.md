@@ -11,6 +11,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] feature interactions in NNs, [here](https://arxiv.org/abs/1705.04977)
 - [x] fuzzy jaccard index, [FUJI](https://arxiv.org/abs/2008.02216) score
 - [x] GAT by Velickovic, [here](https://arxiv.org/abs/1710.10903)
+- [ ] distinct, Robinson lab on new DGE analysis: https://www.biorxiv.org/content/10.1101/2020.11.24.394213v3
 
 
 ### \#ekg
@@ -85,6 +86,8 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [x] transcriptome --> small molecule, https://www.nature.com/articles/s41467-019-13807-w
 - [x] perturbation modeling, in part with single-cell data: https://doi.org/10.1016/j.cels.2021.05.016
 - [ ] from Google Accelerated Science team, https://ai.googleblog.com/2020/04/applying-machine-learning-toyeast.html AND https://research.google/pubs/pub49138/ for translational research 
+- [ ] https://www.biorxiv.org/content/10.1101/2021.05.28.446021v1 (Nir Yosef on lineage tracing)
+- [ ] 
 
 ### timeseries
 - [x] inception for time-series, https://arxiv.org/pdf/1909.04939.pdf
