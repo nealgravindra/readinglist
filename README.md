@@ -73,6 +73,10 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] explaining time series, another vdS, https://arxiv.org/abs/2106.05303
 - [x] important paper on how AI for covid cxr fails miserably and was not useful, https://www.nature.com/articles/s42256-021-00338-7
 - [x] how models with widespread use, such as the EPIC Sepsis Model, actually suck a lot, and we need more competency for ML to be useful: https://jamanetwork.com/journals/jamainternalmedicine/article-abstract/2781307
+- [ ] https://openreview.net/forum?id=eJIJF3-LoZO
+- [ ] https://openreview.net/forum?id=h0de3QWtGG
+- [ ] https://openreview.net/forum?id=unI5ucw_Jk
+- [ ] https://openreview.net/forum?id=PpshD0AXfA
 
 ### ML4biology (includes drug discovery/repurposing, etc.?)
 *desirable $1$: a simpler classification of fields...*
