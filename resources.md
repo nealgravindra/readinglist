@@ -35,3 +35,9 @@
 
 ## bio
 1. see Table 2 for single-cell data that can be used for drug discovery and "perturbation modeling", https://doi.org/10.1016/j.cels.2021.05.016
+
+# activism
+
+- organizing, pol.is (https://pol.is/home) and decidim (https://decidim.org/)
+- https://github.com/philsturgeon/awesome-earth
+- 
