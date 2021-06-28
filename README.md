@@ -19,6 +19,8 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] https://arxiv.org/abs/2003.10580
 - [ ] Cactus
 - [ ] Prototypical networks
+- [ ] https://www.nature.com/articles/s41591-021-01335-4
+- [ ] meta pseudolabels
 
 ### \#sc2drug
 - [ ] [WGAN](https://www.depthfirstlearning.com/2019/WassersteinGAN) review 
