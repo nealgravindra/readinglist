@@ -50,6 +50,8 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] https://arxiv.org/abs/2106.01345
 - [ ] relevant for DINO, https://arxiv.org/abs/2106.05237
 - [ ] feature selection, high-dim bio data, https://arxiv.org/abs/2001.08322
+- [ ] https://arxiv.org/pdf/2106.09643.pdf
+- [ ] sub-groups: https://arxiv.org/pdf/2103.03399.pdf
 
 
 ## fields
