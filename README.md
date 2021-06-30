@@ -80,6 +80,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] https://openreview.net/forum?id=h0de3QWtGG
 - [ ] https://openreview.net/forum?id=unI5ucw_Jk
 - [ ] https://openreview.net/forum?id=PpshD0AXfA
+- [ ] alaa branching into biomedical lit, https://www.nature.com/articles/s42256-021-00353-8
 
 ### ML4biology (includes drug discovery/repurposing, etc.?)
 *desirable $1$: a simpler classification of fields...*
