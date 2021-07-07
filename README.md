@@ -112,6 +112,9 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] SOTA for tumor and organ segmentation as of CVPR 2021, https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_DoDNet_Learning_To_Segment_Multi-Organ_and_Tumors_From_Multiple_Partially_CVPR_2021_paper.html
 - [ ] better than VQ-VAE, discrete cosine transforms: https://arxiv.org/abs/2103.03841 (ICLR 2021)
 
+### causal_inference
+- [ ] resolving latent correlations in disentangled representation nets using weak supervision (another scholkopf): https://arxiv.org/abs/2006.07886
+
 ## architectures
 
 ### transformers
