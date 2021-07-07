@@ -28,8 +28,14 @@
 21. Graph Algorithms, by Needham & Hodler (stanford library, https://searchworks.stanford.edu/view/13317193)
 
 # reproducibility
-- [ ] ML reproducibility checklist, v2.0: https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf
+- ML reproducibility checklist, v2.0: https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf
 
+# code
+
+## time-series
+- https://github.com/okrasolar/pytorch-timeseries
+- InceptionTime implementation: https://github.com/TheMrGhostman/InceptionTime-Pytorch
+- 
 
 # data
 
