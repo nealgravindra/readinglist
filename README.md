@@ -90,9 +90,12 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] https://www.biorxiv.org/content/10.1101/2021.05.28.446021v1 (Nir Yosef on lineage tracing)
 - [ ] 
 
-### timeseries
+### time-series
 - [x] inception for time-series, https://arxiv.org/pdf/1909.04939.pdf
 - [x] sktime, the equivalent of sklearn for time-series, http://learningsys.org/neurips19/assets/papers/sktime_ml_systems_neurips2019.pdf
+- [ ] voice2series: https://arxiv.org/abs/2106.09296 (ICLR 2021)
+- [ ] explaining time-series predictions (ICLR 2021), another vdS paper: https://arxiv.org/abs/2106.05303
+- [ ] causality conditions for time-series by Scholkopf et al.: https://arxiv.org/abs/2005.08543 (ICLR 2021)
 
 ### computer_vision
 - [ ] great lillian blog post on attention, https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
