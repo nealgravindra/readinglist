@@ -42,6 +42,10 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] [paper to replicate](https://doi.org/10.1038/s41591-021-01335-4)
 - [x] [time2vec](https://arxiv.org/abs/1907.05321)
 
+### safegraph
+- [ ] https://www.nature.com/articles/s41586-020-2923-3
+- [ ] https://arxiv.org/abs/2007.03113
+
 ### \#dist_encoder
 - [x] MSR for [data set similarity](https://www.microsoft.com/en-us/research/blog/measuring-dataset-similarity-using-optimal-transport/)
 - [x] DeepSets
