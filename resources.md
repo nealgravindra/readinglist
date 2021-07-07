@@ -27,6 +27,10 @@
 20. Geometric Deep Learning book by Bronstein, Taco Cohen, and Petar: https://arxiv.org/abs/2104.13478
 21. Graph Algorithms, by Needham & Hodler (stanford library, https://searchworks.stanford.edu/view/13317193)
 
+# reproducibility
+- [ ] ML reproducibility checklist, v2.0: https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf
+
+
 # data
 
 ## ML
