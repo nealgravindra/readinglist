@@ -115,6 +115,8 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 
 ### causal_inference
 - [ ] resolving latent correlations in disentangled representation nets using weak supervision (another scholkopf): https://arxiv.org/abs/2006.07886
+- [ ] more comprehensive follow-up than DAGNN (DAG-GNN?) that iclr one, and newer; see: https://arxiv.org/abs/2101.07965
+
 
 ## architectures
 
