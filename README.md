@@ -60,6 +60,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] https://arxiv.org/pdf/2106.09643.pdf
 - [ ] sub-groups: https://arxiv.org/pdf/2103.03399.pdf
 - [ ] dataset shift: http://proceedings.mlr.press/v130/subbaswamy21a/subbaswamy21a.pdf
+- [ ] (time-series + causal inference): https://arxiv.org/ftp/arxiv/papers/2107/2107.01353.pdf
 
 
 ## fields
