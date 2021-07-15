@@ -87,6 +87,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] https://openreview.net/forum?id=unI5ucw_Jk
 - [ ] https://openreview.net/forum?id=PpshD0AXfA
 - [ ] alaa branching into biomedical lit, https://www.nature.com/articles/s42256-021-00353-8
+- [ ] google on predicting gex w/enformer: https://www.biorxiv.org/content/10.1101/2021.04.07.438649v1
 
 ### ML4biology (includes drug discovery/repurposing, etc.?)
 *desirable $1$: a simpler classification of fields...*
