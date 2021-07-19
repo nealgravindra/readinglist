@@ -17,11 +17,12 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 ### \#ekg
 - [ ] https://www.nature.com/articles/s41591-020-0870-z
 - [ ] https://www.nature.com/articles/s41598-019-57025-2
-- [ ] https://arxiv.org/abs/2003.10580
+- [x] clr survey on ecg: https://arxiv.org/pdf/2103.12676.pdf
 - [ ] Cactus
 - [ ] Prototypical networks
 - [ ] https://www.nature.com/articles/s41591-021-01335-4
 - [x] meta pseudolabels: https://openaccess.thecvf.com/content/CVPR2021/papers/Pham_Meta_Pseudo_Labels_CVPR_2021_paper.pdf
+- [x] CLOCS (somehow published at ICML!?...) https://icml.cc/Conferences/2021/Schedule?showEvent=8461
 
 ### \#sc2drug
 - [ ] [WGAN](https://www.depthfirstlearning.com/2019/WassersteinGAN) review 
