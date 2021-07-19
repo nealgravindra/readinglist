@@ -36,7 +36,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 
 ### \#unos/imacs/hcci
 - [ ] [Shapley networks](https://arxiv.org/pdf/2104.02297v1.pdf); [code here](https://github.com/inouye-lab/ShapleyExplanationNetworks)
-- [ ] [organ transplant by vdS](https://arxiv.org/abs/2101.11769)
+- [ ] [organ transplant by vdS](https://arxiv.org/abs/2101.11769); possibly published version: http://proceedings.mlr.press/v139/berrevoets21a.html
 
 ### \#wearables
 - [ ] [classic paper on lstm v. gru](http://proceedings.mlr.press/v37/jozefowicz15.pdf)
