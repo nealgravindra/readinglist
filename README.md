@@ -23,6 +23,8 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] https://www.nature.com/articles/s41591-021-01335-4
 - [x] meta pseudolabels: https://openaccess.thecvf.com/content/CVPR2021/papers/Pham_Meta_Pseudo_Labels_CVPR_2021_paper.pdf
 - [x] CLOCS (somehow published at ICML!?...) https://icml.cc/Conferences/2021/Schedule?showEvent=8461
+- [ ] doi:10.4070/kcj.2018.0446; Artificial Intelligence Algorithm for Screening Heart Failure with Reduced Ejection Fraction Using Electrocardiography doi:10.1097/MAT.0000000000001218; Opening the “Black Box” of Artificial Intelligence for Detecting Heart Failure. ASAIO J; Artificial intelligence for the diagnosis of heart failure doi:10.1038/s41746-020-0261-3
+
 
 ### \#sc2drug
 - [ ] [WGAN](https://www.depthfirstlearning.com/2019/WassersteinGAN) review 
