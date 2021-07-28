@@ -70,6 +70,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 
 ### XAI
 - [ ] interpretable GNNs, building on concepts-based explanations: https://arxiv.org/pdf/2107.07493.pdf
+- [ ] simple way to reduce bias and extract more meaningful information: https://arxiv.org/pdf/1812.10352.pdf
 
 ### SSL
 - [x] [CSI](https://arxiv.org/abs/2007.08176)
