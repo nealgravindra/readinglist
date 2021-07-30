@@ -9,7 +9,7 @@
 
 **How to get data**
 - for B2B prjs, start by doing NRE (non-recurring engineering or consulting) work to build highly customized solutions and obtain enough data "to learn the lessons or train the models needed to build a repeatable business". Once you have built something, it is easier to find customers and scale up from there by getting more data. -- Andrew Ng
-- 
+- beware data drift, concept drift, changing requirements in product specification, and esp. data cascades in AI systems so early on, set up data planning, monitoring, and maintenance code
 
 # References
 1. [summary](https://www.quora.com/How-can-I-publish-papers-in-NIPS-ICML-AAAI-IJCAI-I-dont-know-how-to-get-the-novel-ideas) of Andrew Ng's lecture
