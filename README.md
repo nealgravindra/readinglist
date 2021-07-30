@@ -121,6 +121,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] on all the contrastive learning stuff by FAIR: https://openaccess.thecvf.com/content/CVPR2021/html/Feichtenhofer_A_Large-Scale_Study_on_Unsupervised_Spatiotemporal_Representation_Learning_CVPR_2021_paper.html
 - [ ] SOTA for tumor and organ segmentation as of CVPR 2021, https://openaccess.thecvf.com/content/CVPR2021/html/Zhang_DoDNet_Learning_To_Segment_Multi-Organ_and_Tumors_From_Multiple_Partially_CVPR_2021_paper.html
 - [ ] better than VQ-VAE, discrete cosine transforms: https://arxiv.org/abs/2103.03841 (ICLR 2021)
+- [ ] NeRF VAE, geometry of multiple scenes: https://arxiv.org/abs/2104.00587
 
 ### causal_inference
 - [ ] resolving latent correlations in disentangled representation nets using weak supervision (another scholkopf): https://arxiv.org/abs/2006.07886
