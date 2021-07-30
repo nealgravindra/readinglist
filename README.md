@@ -132,6 +132,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 
 ### transformers
 - [ ] On Position Embeddings in BERT, see [here](https://openreview.net/forum?id=onxoVA9FxMw)
+- [ ] they really are amazing: frozen pretrainted transformer can be trained on lang and do vision tasks w/o fine-tuning: https://arxiv.org/abs/2103.05247
 - [ ] avoiding degernation of self-attention: https://arxiv.org/abs/2103.03404
 
 ## contemporary
