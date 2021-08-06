@@ -127,6 +127,9 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] resolving latent correlations in disentangled representation nets using weak supervision (another scholkopf): https://arxiv.org/abs/2006.07886
 - [ ] more comprehensive follow-up than DAGNN (DAG-GNN?) that iclr one, and newer; see: https://arxiv.org/abs/2101.07965
 
+### GRL
+- [ ] https://arxiv.org/abs/2007.02265 ACM-GCN for improved corr btw node embeddings & topology 
+
 
 ## architectures
 
