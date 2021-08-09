@@ -102,7 +102,8 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [x] perturbation modeling, in part with single-cell data: https://doi.org/10.1016/j.cels.2021.05.016
 - [ ] from Google Accelerated Science team, https://ai.googleblog.com/2020/04/applying-machine-learning-toyeast.html AND https://research.google/pubs/pub49138/ for translational research 
 - [ ] https://www.biorxiv.org/content/10.1101/2021.05.28.446021v1 (Nir Yosef on lineage tracing)
-- [ ] 
+- [ ] autoencoder for structural dynamics: https://doi.org/10.1016/j.cell.2015.03.050
+- [ ] alphafold2: https://www.nature.com/articles/s41586-021-03819-2
 
 ### time-series
 - [x] inception for time-series, https://arxiv.org/pdf/1909.04939.pdf
