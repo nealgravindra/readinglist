@@ -45,7 +45,8 @@
 
 
 ## bio
-1. see Table 2 for single-cell data that can be used for drug discovery and "perturbation modeling", https://doi.org/10.1016/j.cels.2021.05.016
+- see Table 2 for single-cell data that can be used for drug discovery and "perturbation modeling", https://doi.org/10.1016/j.cels.2021.05.016
+- open data collection organized by *Scientific Data*: https://www.nature.com/collections/ebaiehhfhg
 
 # activism
 
