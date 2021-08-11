@@ -52,4 +52,21 @@
 
 - organizing, pol.is (https://pol.is/home) and decidim (https://decidim.org/)
 - https://github.com/philsturgeon/awesome-earth
-- 
+
+
+# settings
+- **figures** constructed in python: 
+```
+plt.rc('font', size = 9)
+plt.rc('font', family='sans serif')
+plt.rcParams['pdf.fonttype']=42
+plt.rcParams['ps.fonttype']=42
+plt.rcParams['legend.frameon']=False
+plt.rcParams['axes.grid']=False
+plt.rcParams['legend.markerscale']=0.5
+sc.set_figure_params(dpi=300, dpi_save=600,
+                     frameon=False,
+                     fontsize=9)
+plt.rcParams['savefig.dpi']=600
+sns.set_style("ticks")
+```
