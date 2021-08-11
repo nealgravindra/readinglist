@@ -130,6 +130,8 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 
 ### GRL
 - [ ] https://arxiv.org/abs/2007.02265 ACM-GCN for improved corr btw node embeddings & topology 
+- [ ] https://arxiv.org/pdf/2106.12575.pdf
+- [ ] https://arxiv.org/pdf/2103.03212.pdf
 
 
 ## architectures
