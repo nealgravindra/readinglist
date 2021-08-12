@@ -133,6 +133,8 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] https://arxiv.org/pdf/2106.12575.pdf
 - [ ] https://arxiv.org/pdf/2103.03212.pdf
 
+### AI4good
+- [x] https://arxiv.org/abs/2107.10356 reading race in ConvNets on radiological data
 
 ## architectures
 
