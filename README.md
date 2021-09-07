@@ -136,6 +136,10 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 ### AI4good
 - [x] https://arxiv.org/abs/2107.10356 reading race in ConvNets on radiological data
 
+###nlp
+- [ ] https://arxiv.org/abs/2008.09335
+
+
 ## architectures
 
 ### transformers
