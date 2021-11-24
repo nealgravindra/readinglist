@@ -21,6 +21,15 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 
 ### SSL
 
+### learning on sets
+1. DeepSets
+2. PointNet
+3. Fabian Fuchs review
+
+### generative_modeling
+1. Welling VAE
+2. Goodfellow GAN
+
 ### unsupervised_learning
 
 
