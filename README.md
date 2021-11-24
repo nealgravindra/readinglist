@@ -3,21 +3,26 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 
 (*NOTE*: "(+)" indicates a would recommend review, since the paper might be useful to others)
 
-# foundation_papers
+## foundation_papers
 
-## computer_vision
+### computer_vision
 1. SIFT/FAST
 2. Alex-Net
 3. R-CNN/Fast R-CNN/Mask R-CNN
 4. YOLO
 
-## NLP
+### NLP
 1. Attention is all you need
 
-## geometric_DL
+### geometric_DL
 1. GCN
 2. GAT
 3. GraphSAGE
+
+### SSL
+
+### unsupervised_learning
+
 
 
 ## projects
