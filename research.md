@@ -23,6 +23,9 @@
 
 **How to read papers**
 - [3 pass approach from Keshav](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+    1. read intro/conclusions to get the gist of the paper and understand whether category, context, contributions, conclusions, clarity
+    2. understand results carefully
+    3. virtually re-implement paper
 - [why reading papers makes you a better data scientist](https://eugeneyan.com/writing/why-read-papers/)
 - 
 
