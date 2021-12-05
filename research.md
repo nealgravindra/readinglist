@@ -27,7 +27,7 @@
     2. understand results carefully
     3. virtually re-implement paper
 - [why reading papers makes you a better data scientist](https://eugeneyan.com/writing/why-read-papers/)
-- 
+- [mindset](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
 
 # References
 1. [summary](https://www.quora.com/How-can-I-publish-papers-in-NIPS-ICML-AAAI-IJCAI-I-dont-know-how-to-get-the-novel-ideas) of Andrew Ng's lecture
