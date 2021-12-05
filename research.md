@@ -19,6 +19,11 @@
 
 **How to write applications for ML positions**
 - [Popular DeepMind story](https://gordicaleksa.medium.com/how-i-got-a-job-at-deepmind-as-a-research-engineer-without-a-machine-learning-degree-1a45f2a781de)
+
+
+**How to read papers**
+- [3 pass approach from Keshav](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
+- [why reading papers makes you a better data scientist](https://eugeneyan.com/writing/why-read-papers/)
 - 
 
 # References
