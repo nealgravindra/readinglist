@@ -20,6 +20,15 @@
 **How to write applications for ML positions**
 - [Popular DeepMind story](https://gordicaleksa.medium.com/how-i-got-a-job-at-deepmind-as-a-research-engineer-without-a-machine-learning-degree-1a45f2a781de)
 
+**Error analysis: debugging ML models**
+- (bias vs. variance problem?) Compare the error vs. the training set size to determine if you have a bias or variance problem (bias if train and test set error are similar and higher than desired level of performance and if no matter how much more data you add, your error won't come down; variance if test error is coming down as you add more training data but training error is lower than test set error). 
+    - to fix high variance, use a smaller number of features, get more training examples
+    - to fix high bias, try a larger set of features 
+- (optimization algorithm vs. optimization objective?) between two algorithms, if J(alg1) > loss(alg2) and eval(alg1) > eval(alg2), then problem for alg2 is with optimization algorithm and could (a) run more iterations or try Newton's method; if eval(alg1) > eval(alg2) and J(alg1) <= J(alg2), then problem for alg2 is with objective function and could try using a different regularization
+- (error analysis & reasoning) apply binary search to try to find where code base is failing, focus debugging efforts there (or beam search). If alg does well in simulation but not in real life, problem is with simulator; if J(human) < J(alg), then alg is problem b/c it fails to minize cost function, J; if J(human) >= J(alg), problem is in the cost fx because it doesn't correspond to good performance. Ask, how much error is attributable to each of the components of the system? To answer, plug in ground-truth per component and see how acc changes (e.g., table of component vs. accuracy where for each component, you have perfect ground truth, e.g., manual background removal vs. algorithmic... if boost in eye segmentation with perfect vs. algorithmic is greatest, then focus on eye segmentation algo and do it cumulatively, e.g. remove background --> face detection + bg removal --> eye segmentation + face detection + bg removal, so that you can compare the marginal eval gain and not get too similar of results when doing one-by-one). 
+
+REF: Andrew Ng lecture for STanford CS229 ([YouTube video](https://www.youtube.com/watch?v=ORrStCArmP4&list=WL&index=5&t=2125s))
+
 
 **How to read papers**
 - [3 pass approach from Keshav](https://web.stanford.edu/class/ee384m/Handouts/HowtoReadPaper.pdf)
