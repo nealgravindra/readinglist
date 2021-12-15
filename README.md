@@ -3,6 +3,10 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 
 (*NOTE*: "(+)" indicates a would recommend review, since the paper might be useful to others)
 
+##implement_asap
+- [ ] CACTUs https://arxiv.org/abs/1810.02334
+- [ ] 
+
 ## foundation_papers
 
 ### computer_vision
