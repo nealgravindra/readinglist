@@ -26,6 +26,7 @@
 19. Practical Time Series Analysis by Aileen Nielsen [yale library link](https://learning.oreilly.com/library/view/practical-time-series/9781492041641/?sso_link=yes&sso_link_from=yale-university); [stanford lib link](https://searchworks.stanford.edu/view/12744528)
 20. Geometric Deep Learning book by Bronstein, Taco Cohen, and Petar: https://arxiv.org/abs/2104.13478
 21. Graph Algorithms, by Needham & Hodler (stanford library, https://searchworks.stanford.edu/view/13317193)
+22. Math for DL (Algebra/topology/optimization): https://www.cis.upenn.edu/~jean/math-deep.pdf
 
 # courrses
 - Yann Lecun's DL course @NYU: https://cds.nyu.edu/deep-learning/
