@@ -36,6 +36,10 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 
 ### unsupervised_learning
 
+###bias_fairness_in_AI
+1. https://dl.acm.org/doi/10.1145/3442188.3445922
+2. 
+
 
 
 ## projects
