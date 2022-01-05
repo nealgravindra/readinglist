@@ -41,6 +41,14 @@ REF: Andrew Ng lecture for STanford CS229 ([YouTube video](https://www.youtube.c
 - [why reading papers makes you a better data scientist](https://eugeneyan.com/writing/why-read-papers/)
 - [mindset](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
 
+
+# notation & style
+
+## coding
+- [PEP 8](https://www.python.org/dev/peps/pep-0008/)
+- pytorch data pipeline
+    - create unique identifiers, store these in the trainer class as a dictionary, e.g., `partition['train']` and a labels AND metadata dictionary where the keys are these unique identifiers; this way, you just need to pass the train IDs to the built-in data loader (mapping dataset). Can even save data as a tensor `.pt` file and load it. 
+
 # References
 1. [summary](https://www.quora.com/How-can-I-publish-papers-in-NIPS-ICML-AAAI-IJCAI-I-dont-know-how-to-get-the-novel-ideas) of Andrew Ng's lecture
 2. Guidelines for writing a good NIPS paper, published in 2015 (see [here](https://nips.cc/Conferences/2015/PaperInformation/EvaluationCriteria))
