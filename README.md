@@ -178,6 +178,10 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 ###nlp
 - [ ] https://arxiv.org/abs/2008.09335
 
+###ML4physics
+
+- [x] PDE solvers using GNNs [from Welling et al., ICLR'22](https://arxiv.org/pdf/2202.03376.pdf)
+
 
 ## architectures
 
