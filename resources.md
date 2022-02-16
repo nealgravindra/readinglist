@@ -2,6 +2,7 @@
 
 ## single_cell
 * Updated [list](https://github.com/mdozmorov/scRNA-seq_notes#differential-expression) of tools for scRNA-seq analysis
+* 21 single-cell omics datasets on COVID-19, curated succintly in [this paper](https://doi.org/10.1038/s41587-021-01131-y)
 
 # textbooks
 
