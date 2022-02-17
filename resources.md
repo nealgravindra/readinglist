@@ -38,6 +38,9 @@
 ## reproducibility
 - ML reproducibility checklist, v2.0: https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf
 
+## model eval
+- Sebastian Rashcka's classic [paper](https://arxiv.org/abs/1811.12808) on evaluating ML models
+
 # code
 
 ## time-series
