@@ -12,6 +12,7 @@
     - Become good at implementing models, training and evaluation loops, with good logging practices and a clear way of varying hyper-parameters. Don’t over-engineer your codebases (research code is often best thrown away after a few weeks/months). In learning to do this, through practice, you will reduce the effect of the unseen force that often blocks us from immediately going from a cool idea we’ve just had to implementing and experimenting with it.
     - Most papers make honest mistakes. Most methods make simplifying assumptions. Most approaches don’t necessarily apply as generally as the authors claim. Find out where things break, then find out why they break, then improve things. You can build a good research career over just doing this over and over.
     ```
+    - how to write ecnomic models by hal varian (interesting for ideation): [paper](https://people.ischool.berkeley.edu/~hal/Papers/how.pdf)
 
 **How to get data**
 - for B2B prjs, start by doing NRE (non-recurring engineering or consulting) work to build highly customized solutions and obtain enough data "to learn the lessons or train the models needed to build a repeatable business". Once you have built something, it is easier to find customers and scale up from there by getting more data. -- Andrew Ng
