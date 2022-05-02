@@ -29,6 +29,7 @@
 21. Graph Algorithms, by Needham & Hodler (stanford library, https://searchworks.stanford.edu/view/13317193)
 22. Math for DL (Algebra/topology/optimization): https://www.cis.upenn.edu/~jean/math-deep.pdf
 23. Causal inference: [textbook](https://mitpress.mit.edu/books/elements-causal-inference) from Shcolkopf and Jonas Peters
+24. Physics based deep learning, esp. interesting for differential simulations. See [textbook here](https://physicsbaseddeeplearning.org/diffphys.html)
 
 # courrses
 - Yann Lecun's DL course @NYU: https://cds.nyu.edu/deep-learning/
