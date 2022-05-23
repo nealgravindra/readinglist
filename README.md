@@ -170,6 +170,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] more comprehensive follow-up than DAGNN (DAG-GNN?) that iclr one, and newer; see: https://arxiv.org/abs/2101.07965
 - [ ] textbook: https://mitpress.mit.edu/books/elements-causal-inference from Shcolkopf and Jonas Peters (http://web.math.ku.dk/~peters/)
 - [ ] Melanie Mitchell on abstraction: https://arxiv.org/abs/2102.10717
+- [x] Symbolic reasoning in NNs: https://arxiv.org/abs/2102.03406
 
 ### GRL
 - [ ] https://arxiv.org/abs/2007.02265 ACM-GCN for improved corr btw node embeddings & topology 
