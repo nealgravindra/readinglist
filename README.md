@@ -169,6 +169,7 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 - [ ] resolving latent correlations in disentangled representation nets using weak supervision (another scholkopf): https://arxiv.org/abs/2006.07886
 - [ ] more comprehensive follow-up than DAGNN (DAG-GNN?) that iclr one, and newer; see: https://arxiv.org/abs/2101.07965
 - [ ] textbook: https://mitpress.mit.edu/books/elements-causal-inference from Shcolkopf and Jonas Peters (http://web.math.ku.dk/~peters/)
+- [ ] Melanie Mitchell on abstraction: https://arxiv.org/abs/2102.10717
 
 ### GRL
 - [ ] https://arxiv.org/abs/2007.02265 ACM-GCN for improved corr btw node embeddings & topology 
@@ -184,6 +185,9 @@ need to read more papers ahhh... *for research*... read more books for life, yik
 ###ML4physics
 
 - [x] PDE solvers using GNNs [from Welling et al., ICLR'22](https://arxiv.org/pdf/2202.03376.pdf)
+
+### Eval metrics
+- classic Raschka on it: https://arxiv.org/abs/1811.12808
 
 
 ## architectures
