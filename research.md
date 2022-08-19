@@ -42,6 +42,15 @@ REF: Andrew Ng lecture for STanford CS229 ([YouTube video](https://www.youtube.c
 - [why reading papers makes you a better data scientist](https://eugeneyan.com/writing/why-read-papers/)
 - [mindset](https://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf)
 
+**Ideation**
+1. talk to researchers in other fields
+2. code simple baselines to better understand problems
+3. extend the experiments systematically from a paper you like
+4. Hal Varian's tips to read non-academic literature for inspiration
+5.  
+
+Some ideas from Tom Silver (see blog post [here](https://web.mit.edu/tslvr/www/lessons_two_years.html))
+
 
 # notation & style
 
