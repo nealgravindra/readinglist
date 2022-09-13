@@ -52,8 +52,11 @@ REF: Andrew Ng lecture for STanford CS229 ([YouTube video](https://www.youtube.c
 Some ideas from Tom Silver (see blog post [here](https://web.mit.edu/tslvr/www/lessons_two_years.html))
 
 **General**
-1. Problem selection: come up with new ideas by identifying gaps in what is and could be, engaging with applied problems and non-academic culture; organize and flesh out ideas by prototyping and have a bias to action to think by doing a bit, decide which ideas are worth pursuing through institutional wisdom, chatting with friends and family and colleagues and by being honest about what would be a useful contribution to a community by doing your homework and reading around
-2. 
+1. Problem selection: 
+    - come up with new ideas by identifying gaps in what is and could be, engaging with applied problems and non-academic culture, and always expanding what you know (n choose k combination of ideas; novelty stems from the adjacent possible) with courses, textbooks, and surveys/reviews for broad overview and recent papers or talks for more frontier topics that have fewer courses/textbooks available -- be aware of what techniques are SOTA, what people are working on or interested in, what is trendy, walk around at poster sessions, read what papers get awards even if it has nothing to do with your research, and see and try to understand what evaluations are being done, i.e., play around with those datasets; 
+    - organize and flesh out ideas by prototyping and have a bias to action to think by doing a bit, 
+    - decide which ideas are worth pursuing through institutional wisdom, chatting with friends and family and colleagues and by being honest about what would be a useful contribution to a community by doing your homework and reading around
+2.  
 
 
 # notation & style
