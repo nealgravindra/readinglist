@@ -63,6 +63,10 @@
 - TorchDrug (DL drug discovery environment): https://torchdrug.ai/?fbclid=IwAR19V66qAdaI3FOBlVfXy6oFPH4va4hVdwy1U5vbFB9S7ShfXb9W2LhwAd8
 - protein localization and interaction partners (by mass-spec pull down of mNG) in HEK cells: https://opencell.czbiohub.org/
 
+# writing
+
+- science writing [cheatsheet](https://burginlab.files.wordpress.com/2016/07/schimel-in-a-sheet-copy.pdf) from Schimel's book
+
 # activism
 
 - organizing, pol.is (https://pol.is/home) and decidim (https://decidim.org/)
