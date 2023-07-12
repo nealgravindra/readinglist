@@ -47,7 +47,7 @@ REF: Andrew Ng lecture for STanford CS229 ([YouTube video](https://www.youtube.c
 2. code simple baselines to better understand problems
 3. extend the experiments systematically from a paper you like
 4. Hal Varian's tips to read non-academic literature for inspiration
-5.  
+5. *error analysis*: build prototype, then do an analysis on error examples (error analysis) by ID'ing features, then creating several solutions, picking best one for feature of images with high error (e.g., module to address blurry images in an image classifier) 
 
 Some ideas from Tom Silver (see blog post [here](https://web.mit.edu/tslvr/www/lessons_two_years.html))
 
